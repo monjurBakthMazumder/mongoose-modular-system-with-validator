@@ -90,7 +90,7 @@ npm i ts-node-dev --save-dev
     NODE_ENV= developmant
 
 --------------------------------
-add joi validator
+add validator
 --------------------------------
 1. npm i validator
 2. npm i -D @types/validator
